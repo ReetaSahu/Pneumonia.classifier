@@ -7,8 +7,7 @@ This project fine-tunes a pre-trained ResNet-50 model to classify chest X-ray im
 - `pneumonia_resnet50.py` — Training and evaluation script
 - `requirements.txt` — Python package dependencies
 - `hyperparameters.txt` — Notes on learning rate, batch size, etc.
-- `resnet50_pneumonia.keras` — (Optional) saved trained model
-- `images/confusion_matrix.png` — (Optional) visual output
+
 
 ## How to Run
 
